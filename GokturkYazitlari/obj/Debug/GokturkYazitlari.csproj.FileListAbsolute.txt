@@ -1,0 +1,7 @@
+C:\Users\ramse\Desktop\C# Ödevler\GokturkYazitlari\bin\Debug\GokturkYazitlari.exe.config
+C:\Users\ramse\Desktop\C# Ödevler\GokturkYazitlari\bin\Debug\GokturkYazitlari.exe
+C:\Users\ramse\Desktop\C# Ödevler\GokturkYazitlari\bin\Debug\GokturkYazitlari.pdb
+C:\Users\ramse\Desktop\C# Ödevler\GokturkYazitlari\obj\Debug\GokturkYazitlari.csproj.AssemblyReference.cache
+C:\Users\ramse\Desktop\C# Ödevler\GokturkYazitlari\obj\Debug\GokturkYazitlari.csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\C# Ödevler\GokturkYazitlari\obj\Debug\GokturkYazitlari.exe
+C:\Users\ramse\Desktop\C# Ödevler\GokturkYazitlari\obj\Debug\GokturkYazitlari.pdb
